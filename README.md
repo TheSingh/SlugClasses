@@ -1,5 +1,5 @@
 # SlugClasses
-A database style site with server side written in Python.
+A database style site with server side written in Python, and mySQL.
 
 Features: 
 
@@ -7,8 +7,9 @@ Features:
     -Add/Remove classes
     -Add/Remove Professors
     -Add a review for a class/professor
+    -Search for Classes
+    -Search for Professors
     -List the reviews for an entire class.
-    -List reviews for class only being taught by a specific professor.
     -List reviews of all classes being taught by a professor.
 
 A live demo can be found here:
