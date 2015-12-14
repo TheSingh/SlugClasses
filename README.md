@@ -1,6 +1,8 @@
 # SlugClasses
 A database style site with server side written in Python, and mySQL.
 
+This is a site meant for talking about classes and reviews of professors on campus. Then filtering the reviews for clases while also attributing them to the professor that taught that class.
+
 Features: 
 
     -Logging in/out
